@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dikshant2077
-- 👀 I’m interested in data analysis 
-- 🌱 I’m currently learning tools requires for data analysis
+- 👀 I’m interested in UI/UX Design 
+- 🌱 I’m currently learning tools required for UX design
 - 📫 reach me on linkdin www.linkedin.com/in/dikshant-patil-7910b9245
 
 
